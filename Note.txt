@@ -1,0 +1,33 @@
+google search
+ref- web/github------doc/demo
+
+plugin file link up - css + js; js=>js (library file not required); jq=>3.7.1/1.12.4 (library file required)
+markup - html code
+style - change/add----optional
+js/jq - activation
+
+
+jqueryscript.net
+
+counter-----3 nos
+Animation--- wow js + animation on scroll
+slider---- owl, slick
+lightbox - 
+mixitup---
+preloader---
+
+link:
+AOS:
+https://github.com/minhazfaisal/aos
+https://github.com/minhazfaisal/aos-2
+http://www.facebook.com/watch/live/?ref=watch_permalink&v=673875794330268
+
+Mixitup:
+https://drive.google.com/file/d/1fwNgp3kGgR3YY4rGXxCB2O4U0kun48X6/view?usp=sharing
+
+Preloader:
+https://drive.google.com/file/d/1W82WNATb3ngoS_sgkwZIer0cTKucOvxD/view?usp=sharing
+
+Slick slider:
+https://drive.google.com/file/d/1BwO9H8KFR3ec2geI6gMGBFyv9XtcAqzd/view?usp=sharing
+
